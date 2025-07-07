@@ -9,3 +9,4 @@ RUST_MIN_STACK="33554432"
 # so that anyhow errors automatically display stack trace
 RUST_BACKTRACE="1"
 
+CMAKE_POLICY_VERSION_MINIMUM = "3.5"
